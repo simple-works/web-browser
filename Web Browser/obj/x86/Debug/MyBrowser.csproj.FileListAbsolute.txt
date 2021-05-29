@@ -1,0 +1,17 @@
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\bin\Debug\MyBrowser.pdb
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.Form1.resources
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.exe
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.pdb
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyBrowser\MyBrowser\bin\Debug\MyBrowser.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\MyBrowser\MyBrowser\obj\x86\Debug\MyBrowser.FormMain.resources

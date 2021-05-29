@@ -1,0 +1,11 @@
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\bin\Release\MyBrowser.exe.config
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\bin\Release\MyBrowser.exe
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\bin\Release\MyBrowser.pdb
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\obj\x86\Release\MyBrowser.Form1.resources
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\obj\x86\Release\MyBrowser.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\obj\x86\Release\MyBrowser.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\obj\x86\Release\MyBrowser.exe
+C:\Users\Ambratolm\Desktop\MyBrowser\MyBrowser\obj\x86\Release\MyBrowser.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\bin\Release\MyBrowser.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\obj\x86\Release\MyBrowser.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\obj\x86\Release\MyBrowser.pdb

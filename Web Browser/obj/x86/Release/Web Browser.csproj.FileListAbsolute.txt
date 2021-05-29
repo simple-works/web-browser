@@ -1,0 +1,10 @@
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\bin\Release\WebBrowser.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\bin\Release\WebBrowser.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\bin\Release\WebBrowser.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\obj\x86\Release\WebBrowser.Form_About.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\obj\x86\Release\WebBrowser.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\obj\x86\Release\WebBrowser.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\obj\x86\Release\Web Browser.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\obj\x86\Release\WebBrowser.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\obj\x86\Release\WebBrowser.pdb
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Software Projects\C# .NET Projects\MyBrowser\MyBrowser\obj\x86\Release\WebBrowser.Form_Settings.resources
